@@ -1,2 +1,3 @@
-# FLUTTER-TODO-APP
-Flutter app
+# to_do
+
+A new Flutter project.
